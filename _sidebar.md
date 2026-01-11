@@ -1,7 +1,4 @@
 * [首页](README.md)
-* **HTML 系列**
-  * [html-css](html-css.md)
-* **js 系列**
-  * [js](js.md)
-* **vue 系列**
-  * [vue](vue.md)
+* [HTML & CSS 笔记](html-css.md)
+* [JavaScript 核心](js.md)
+* [Vue 实战](vue.md)
